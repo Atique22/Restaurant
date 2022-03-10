@@ -23,7 +23,7 @@
         </a>
 <!--        NAVBAR-->
         <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center" >
-            <a href="./HOME.html" target="_self" class="mr-5 hover:text-black">Home</a>
+            <a href="./index.html" target="_self" class="mr-5 hover:text-black">Home</a>
             <a href="./About.html" target="_self" class="mr-5 hover:text-black">About</a>
             <a href="./customer.php"  target="_self" class="mr-5 hover:text-black">Service</a>
             <a href="./Contact.html"  target="_self" class="mr-5 hover:text-black">Contact</a>
